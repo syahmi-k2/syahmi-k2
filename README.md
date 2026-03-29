@@ -1,10 +1,16 @@
-## Hi there! 👋 I'm Syahmi.
+# Hi there, I'm Syahmi! 👋
 
-I'm an Assistant Engineer, passionate about . This is a simple portfolio showcasing my work.
+I'm a Software Enthusiast passionate about building cool things with code and exploring new technologies.
 
-📚 Currently Learning
+Tech Stack
+*   **Languages:** C Programming, C++, Python
+*   **Tools & Frameworks:** VS Code, MySQL, SQLite
 
-### 🔭 Currently Working On
+I'm currently learning more about:
+*   Python on: https://www.freecodecamp.org/learn
+*   Networking on: https://www.cisco.com/site/us/en/learn/training-certifications/training/netacad/index.html
+*   IT Fundamentals on: https://students.yourlearning.ibm.com/
+
 
 <!--
 **syahmi-k2/syahmi-k2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
