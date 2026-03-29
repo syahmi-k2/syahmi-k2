@@ -1,6 +1,6 @@
-# Hi there, I'm Syahmi! 👋
+# Hi there!👋
 
-I'm a Software Enthusiast passionate about building cool things with code and exploring new technologies.
+I'm Syahmi, a software enthusiast passionate about building cool things with code and exploring new technologies.
 
 Tech Stack
 *   **Languages:** C Programming, C++, Python
