@@ -1,5 +1,8 @@
-## Hi there 👋
-## Testing line here
+## Hi there! 👋 I'm Syahmi.
+
+I'm an Assistant Engineer, passionate about . This is a simple portfolio showcasing my work.
+
+📚 Currently Learning
 
 <!--
 **syahmi-k2/syahmi-k2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
