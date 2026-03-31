@@ -7,9 +7,9 @@ Tech Stack:
 *   **Tools & Frameworks:** VS Code, MySQL, SQLite
 
 I'm currently learning more about:
-*   Python on: https://www.freecodecamp.org/learn
-*   Networking on: https://www.cisco.com/site/us/en/learn/training-certifications/training/netacad/index.html
-*   IT Fundamentals on: https://students.yourlearning.ibm.com/
+*   Python (freeCodeCamp)
+*   Networking (Cisco Networking Academy)
+*   IT Fundamentals (IBM SkillsBuild)
 
 
 <!--
