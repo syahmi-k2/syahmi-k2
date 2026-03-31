@@ -2,7 +2,7 @@
 
 I'm Syahmi, a software enthusiast passionate about building cool things with code and exploring new technologies.
 
-Tech Stack
+Tech Stack:
 *   **Languages:** C Programming, C++, Python
 *   **Tools & Frameworks:** VS Code, MySQL, SQLite
 
